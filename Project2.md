@@ -29,3 +29,6 @@ Before we can receive any traffic by our Web Server, we need to open TCP port 80
 
 #STEP 6 – RETRIEVING DATA FROM MYSQL DATABASE WITH PHP (CONTINUED)
 
+![404 not found](https://user-images.githubusercontent.com/117018714/199859449-21656e97-f8c1-4bc0-8a3d-86cff1eca2e8.PNG)
+
+Currently getting this error and not getting the webpage showing to do
