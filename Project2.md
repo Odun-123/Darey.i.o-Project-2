@@ -23,3 +23,9 @@ Before we can receive any traffic by our Web Server, we need to open TCP port 80
 
 #STEP 4 — CONFIGURING NGINX TO USE PHP PROCESSOR
 
+![Project 2 Hello Lemp](https://user-images.githubusercontent.com/117018714/199859010-a746ff8f-4a9e-49e1-a679-ccd66c8c9d18.PNG)
+
+# STEP 5 – TESTING PHP WITH NGINX
+
+#STEP 6 – RETRIEVING DATA FROM MYSQL DATABASE WITH PHP (CONTINUED)
+
