@@ -15,3 +15,11 @@ sudo apt install nginx
 
 Before we can receive any traffic by our Web Server, we need to open TCP port 80 which is default port that web brousers use to access web pages in the Internet.
 
+![Welcome to Nginx](https://user-images.githubusercontent.com/117018714/199857755-5f895269-df96-4b87-8760-a231c54f06a3.PNG)
+
+#STEP 2 — INSTALLING MYSQL
+
+#STEP 3 – INSTALLING PHP
+
+#STEP 4 — CONFIGURING NGINX TO USE PHP PROCESSOR
+
