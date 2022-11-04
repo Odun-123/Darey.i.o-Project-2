@@ -25,9 +25,10 @@ Before we can receive any traffic by our Web Server, we need to open TCP port 80
 
 ![Project 2 Hello Lemp](https://user-images.githubusercontent.com/117018714/199859010-a746ff8f-4a9e-49e1-a679-ccd66c8c9d18.PNG)
 
-# STEP 5 – TESTING PHP WITH NGINX
+#STEP 5 – TESTING PHP WITH NGINX
 
 #STEP 6 – RETRIEVING DATA FROM MYSQL DATABASE WITH PHP (CONTINUED)
+
 
 ![404 not found](https://user-images.githubusercontent.com/117018714/199859449-21656e97-f8c1-4bc0-8a3d-86cff1eca2e8.PNG)
 
